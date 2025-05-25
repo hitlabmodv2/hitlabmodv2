@@ -34,6 +34,22 @@
 - Framework: ...
 - Tools: ...
 
+## 🛠️ Tools & Resources
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img src="https://img.shields.io/badge/NPM-Package-red?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node.js-JS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-Language-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+</p>
+
 ## 📈 Statistik GitHub
 <details>
   <summary><b>Klik untuk melihat statistik lengkap</b></summary>
@@ -53,6 +69,59 @@
     </ul>
   </p>
 </details>
+
+## 🏆 Pencapaian
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hitlabmodv2&style=for-the-badge" alt="Profile views" />
+  <img src="https://badges.pufler.dev/visits/hitlabmodv2/hitlabmodv2?style=for-the-badge" alt="Total Visits" />
+  <img src="https://img.shields.io/github/followers/hitlabmodv2?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+</p>
+
+## 📅 Aktivitas Terbaru
+<p align="center">
+  <a href="https://github.com/hitlabmodv2?tab=activity">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hitlabmodv2&theme=radical" alt="Activity Graph" />
+  </a>
+</p>
+
+## 📚 Artikel & Tutorial
+<p align="center">
+  <a href="https://dev.to/username">
+    <img src="https://img.shields.io/badge/Dev.to-Artikel-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@username">
+    <img src="https://img.shields.io/badge/Medium-Tutorial-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://youtube.com/@username">
+    <img src="https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+## 💬 Testimoni & Ulasan
+<p align="center">
+  <img src="https://img.shields.io/badge/Testimoni-Positif-brightgreen?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Testimoni" />
+  <img src="https://img.shields.io/badge/Ulasan-5★-yellow?style=for-the-badge" alt="Ulasan" />
+</p>
+
+## 🎵 Playlist Coding Favorit
+<p align="center">
+  <a href="https://open.spotify.com/user/username">
+    <img src="https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <a href="https://music.youtube.com/channel/username">
+    <img src="https://img.shields.io/badge/YouTube%20Music-Playlist-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music" />
+  </a>
+</p>
+
+## 📝 Kontak & Saran
+<p align="center">
+  <a href="mailto:emailanda@gmail.com?subject=Saran%20untuk%20Profil%20GitHub">
+    <img src="https://img.shields.io/badge/Kirim%20Saran-Email-blue?style=for-the-badge&logo=gmail" alt="Kirim Saran" />
+  </a>
+  <a href="https://forms.gle/your-google-form-link">
+    <img src="https://img.shields.io/badge/Formulir%20Saran-Google%20Forms-green?style=for-the-badge&logo=googleforms&logoColor=white" alt="Google Forms" />
+  </a>
+</p>
 
 ## 🔗 Temukan Saya di
 <p align="center">
