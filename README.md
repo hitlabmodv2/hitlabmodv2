@@ -1,40 +1,47 @@
-# 👋 Selamat datang di Profil Saya!
+<h1 align="center">Halo, saya @hitlabmodv2 👋</h1>
 
-## 👤 Tentang Saya
-- Nama: @hitlabmodv2
-- Saya seorang pengembang perangkat lunak yang bersemangat dengan minat dalam teknologi dan inovasi.
+<p align="center">
+  <a href="mailto:emailanda@gmail.com">
+    <img src="https://img.shields.io/badge/Kontak%20Saya-Email-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/hitlabmodv2">
+    <img src="https://img.shields.io/badge/Ikuti%20Saya-GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/username/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-## 🗓️ Tanggal Terakhir Diperbarui
-- **Tanggal**: 2023-10-01 (Waktu Asia/Jakarta)
+---
 
-## 👀 Minat
-- **Pengembangan Perangkat Lunak**: Membangun aplikasi yang bermanfaat.
-- **Kecerdasan Buatan**: Menjelajahi algoritma dan model machine learning.
-- **Data Science**: Menganalisis data untuk mendapatkan wawasan yang berharga.
+## ✨ Tentang Saya
 
-## 🌱 Pembelajaran Saat Ini
-- Sedang mempelajari **Deep Learning** dan **Framework Web** seperti Django dan Flask.
+- 👀 **Tertarik pada:** ...
+- 🌱 **Sedang belajar:** ...
+- 🤝 **Terbuka untuk kolaborasi di:** ...
+- 📫 **Hubungi saya:** emailanda@gmail.com
+- 😄 **Panggilan:** ...
+- ⚡ **Fakta unik:** ...
 
-## 💞️ Kolaborasi
-- Saya terbuka untuk kolaborasi pada proyek:
-  - Open-source
-  - Penelitian di bidang teknologi
-  - Pengembangan aplikasi
+## 🚀 Keahlian
 
-## 📫 Cara Menghubungi Saya
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Bahasa Pemrograman: ...
+- Framework: ...
+- Tools: ...
 
-## 😄 Pronouns
-- Dia / Dia (He/Him)
+## 📈 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitlabmodv2&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-## ⚡ Fakta Menarik
-- Saya seorang penggemar berat kopi dan suka menjelajahi tempat-tempat baru di akhir pekan!
+## 🔗 Temukan Saya di
+<p align="center">
+  <a href="https://github.com/hitlabmodv2">GitHub</a> •
+  <a href="https://www.linkedin.com/in/username/">LinkedIn</a> •
+  <a href="mailto:emailanda@gmail.com">Email</a>
+</p>
 
-## 🎨 Animasi Gambar
-![Animasi Gambar](https://media.giphy.com/media/your-animation-url.gif)
-
-## 🔗 Button
-[![GitHub Saya](https://img.shields.io/badge/GitHub-Saya-blue?style=for-the-badge&logo=github)](https://github.com/hitlabmodv2)
-[![LinkedIn Saya](https://img.shields.io/badge/LinkedIn-Saya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+<!---
+hitlabmodv2/hitlabmodv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
