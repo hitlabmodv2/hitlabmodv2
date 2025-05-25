@@ -4,6 +4,9 @@
 - Nama: @hitlabmodv2
 - Saya seorang pengembang perangkat lunak yang bersemangat dengan minat dalam teknologi dan inovasi.
 
+## 🗓️ Tanggal Terakhir Diperbarui
+- **Tanggal**: 2023-10-01 (Waktu Asia/Jakarta)
+
 ## 👀 Minat
 - **Pengembangan Perangkat Lunak**: Membangun aplikasi yang bermanfaat.
 - **Kecerdasan Buatan**: Menjelajahi algoritma dan model machine learning.
@@ -28,3 +31,10 @@
 
 ## ⚡ Fakta Menarik
 - Saya seorang penggemar berat kopi dan suka menjelajahi tempat-tempat baru di akhir pekan!
+
+## 🎨 Animasi Gambar
+![Animasi Gambar](https://media.giphy.com/media/your-animation-url.gif)
+
+## 🔗 Button
+[![GitHub Saya](https://img.shields.io/badge/GitHub-Saya-blue?style=for-the-badge&logo=github)](https://github.com/hitlabmodv2)
+[![LinkedIn Saya](https://img.shields.io/badge/LinkedIn-Saya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
