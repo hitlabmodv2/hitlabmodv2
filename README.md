@@ -1,5 +1,10 @@
 <h1 align="center">Halo, saya @hitlabmodv2 👋</h1>
 
+<!-- Gambar random di bagian atas -->
+<p align="center">
+  <img src="https://files.catbox.moe/azbrp4.jpg" alt="Random Banner" width="60%" style="border-radius: 12px; box-shadow: 0 4px 12px #0002;" />
+</p>
+
 <p align="center">
   <a href="mailto:emailanda@gmail.com">
     <img src="https://img.shields.io/badge/Kontak%20Saya-Email-blue?style=for-the-badge&logo=gmail" alt="Email" />
@@ -38,6 +43,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitlabmodv2&theme=radical" alt="GitHub Streak" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitlabmodv2&layout=compact&theme=radical" alt="Top Languages" />
+    <br/>
+    <b>Kata-kata lain & Fitur Lain:</b>
+    <ul>
+      <li>Statistik di atas diupdate otomatis setiap hari.</li>
+      <li>Bahasa pemrograman terpopuler berdasarkan repositori publik.</li>
+      <li>Streak menampilkan aktivitas coding harian Anda.</li>
+      <li>Ingin fitur lain? Hubungi saya di sosial media di bawah!</li>
+    </ul>
   </p>
 </details>
 
