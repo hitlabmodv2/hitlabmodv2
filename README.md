@@ -30,15 +30,37 @@
 - Tools: ...
 
 ## 📈 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitlabmodv2&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<details>
+  <summary><b>Klik untuk melihat statistik lengkap</b></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hitlabmodv2&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitlabmodv2&theme=radical" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitlabmodv2&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</details>
 
 ## 🔗 Temukan Saya di
 <p align="center">
   <a href="https://github.com/hitlabmodv2">GitHub</a> •
   <a href="https://www.linkedin.com/in/username/">LinkedIn</a> •
   <a href="mailto:emailanda@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/username">
+    <img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com/username">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://t.me/username">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
 </p>
 
 <!---
