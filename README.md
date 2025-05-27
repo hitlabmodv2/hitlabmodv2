@@ -1,9 +1,13 @@
 <h1 align="center">Halo, saya @hitlabmodv2 👋</h1>
+&nbsp;
+&nbsp;
 
 <!-- Gambar random di bagian atas -->
 <p align="center">
   <img src="https://files.catbox.moe/azbrp4.jpg" alt="Random Banner" width="60%" style="border-radius: 12px; box-shadow: 0 4px 12px #0002;" />
 </p>
+&nbsp;
+&nbsp;
 
 <p align="center">
   <a href="mailto:emailanda@gmail.com">
@@ -16,10 +20,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ---
+&nbsp;
+&nbsp;
 
 ## ✨ Tentang Saya
+&nbsp;
+&nbsp;
 
 - 👀 **Tertarik pada:** ...
 - 🌱 **Sedang belajar:** ...
@@ -27,12 +37,27 @@
 - 📧 **Hubungi saya:** emailanda@gmail.com
 - 😄 **Panggilan:** ...
 - ⚡ **Fakta unik:** ...
+&nbsp;
+&nbsp;
+
+## 🎵 Pemutar Musik Otomatis
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <br/>
+  <small>Playlist favorit saya. Ganti `VIDEO_ID` dengan ID video YouTube yang diinginkan.</small>
+</p>
+&nbsp;
+&nbsp;
 
 ## 🚀 Keahlian
+&nbsp;
+&nbsp;
 
 - **Bahasa Pemrograman:** ...
 - **Framework:** ...
 - **Tools:** ...
+&nbsp;
+&nbsp;
 
 ## 🛠️ Tools & Resources
 <p align="center">
@@ -49,8 +74,12 @@
     <img src="https://img.shields.io/badge/Python-Language-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ## 📊 Statistik GitHub
+&nbsp;
+&nbsp;
 
 <details>
   <summary><b>Klik untuk melihat statistik lengkap</b></summary>
@@ -77,6 +106,8 @@
     </ul>
   </p>
 </details>
+&nbsp;
+&nbsp;
 
 ## 🏆 Pencapaian
 <p align="center">
@@ -84,6 +115,8 @@
   <img src="https://badges.pufler.dev/visits/hitlabmodv2/hitlabmodv2?style=for-the-badge" alt="Total Visits" />
   <img src="https://img.shields.io/github/followers/hitlabmodv2?label=Followers&style=for-the-badge" alt="GitHub Followers" />
 </p>
+&nbsp;
+&nbsp;
 
 ## 📅 Aktivitas Terbaru
 <p align="center">
@@ -91,6 +124,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hitlabmodv2&theme=radical" alt="Activity Graph" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ## 📖 Artikel & Tutorial
 <p align="center">
@@ -104,12 +139,16 @@
     <img src="https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ## 💬 Testimoni & Ulasan
 <p align="center">
   <img src="https://img.shields.io/badge/Testimoni-Positif-brightgreen?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Testimoni" />
   <img src="https://img.shields.io/badge/Ulasan-5★-yellow?style=for-the-badge" alt="Ulasan" />
 </p>
+&nbsp;
+&nbsp;
 
 ## 🎵 Playlist Coding Favorit
 <p align="center">
@@ -120,6 +159,8 @@
     <img src="https://img.shields.io/badge/YouTube%20Music-Playlist-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ## 📝 Kontak & Saran
 <p align="center">
@@ -130,6 +171,8 @@
     <img src="https://img.shields.io/badge/Formulir%20Saran-Google%20Forms-green?style=for-the-badge&logo=googleforms&logoColor=white" alt="Google Forms" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 ## 🔗 Temukan Saya di
 <p align="center">
@@ -137,6 +180,8 @@
   <a href="https://www.linkedin.com/in/username/">LinkedIn</a> •
   <a href="mailto:emailanda@gmail.com">Email</a>
 </p>
+&nbsp;
+&nbsp;
 
 <p align="center">
   <a href="https://instagram.com/username">
@@ -152,11 +197,10 @@
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </p>
+&nbsp;
+&nbsp;
 
 <!---
 hitlabmodv2/hitlabmodv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-````
-
-Anda dapat menyalin dan menempelkan kode di atas ke dalam file README.md Anda. Jika ada bagian yang ingin Anda ubah atau tambahkan, silakan beri tahu saya!
