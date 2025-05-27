@@ -1,3 +1,6 @@
+Berikut adalah versi yang lebih rapi dan menarik dari konten README.md Anda. Saya telah menambahkan beberapa elemen untuk meningkatkan tampilan dan keterbacaan.
+
+````markdown
 <h1 align="center">Halo, saya @hitlabmodv2 👋</h1>
 
 <!-- Gambar random di bagian atas -->
@@ -24,15 +27,15 @@
 - 👀 **Tertarik pada:** ...
 - 🌱 **Sedang belajar:** ...
 - 🤝 **Terbuka untuk kolaborasi di:** ...
-- 📫 **Hubungi saya:** emailanda@gmail.com
+- 📧 **Hubungi saya:** emailanda@gmail.com
 - 😄 **Panggilan:** ...
 - ⚡ **Fakta unik:** ...
 
 ## 🚀 Keahlian
 
-- Bahasa Pemrograman: ...
-- Framework: ...
-- Tools: ...
+- **Bahasa Pemrograman:** ...
+- **Framework:** ...
+- **Tools:** ...
 
 ## 🛠️ Tools & Resources
 <p align="center">
@@ -50,21 +53,29 @@
   </a>
 </p>
 
-## 📈 Statistik GitHub
+## 📊 Statistik GitHub
+
 <details>
   <summary><b>Klik untuk melihat statistik lengkap</b></summary>
+  <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=hitlabmodv2&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <br/>
+    <br/><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitlabmodv2&theme=radical" alt="GitHub Streak" />
-    <br/>
+    <br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitlabmodv2&layout=compact&theme=radical" alt="Top Languages" />
+    <br/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hitlabmodv2&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+    <br/><br/>
+    <img src="https://raw.githubusercontent.com/hitlabmodv2/hitlabmodv2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
     <br/>
-    <b>Kata-kata lain & Fitur Lain:</b>
-    <ul>
+    <b>Keterangan Statistik:</b>
+    <ul align="left">
       <li>Statistik di atas diupdate otomatis setiap hari.</li>
       <li>Bahasa pemrograman terpopuler berdasarkan repositori publik.</li>
       <li>Streak menampilkan aktivitas coding harian Anda.</li>
+      <li>Trophies menampilkan pencapaian GitHub Anda.</li>
+      <li>Contribution Snake menampilkan animasi kontribusi Anda.</li>
       <li>Ingin fitur lain? Hubungi saya di sosial media di bawah!</li>
     </ul>
   </p>
@@ -84,7 +95,7 @@
   </a>
 </p>
 
-## 📚 Artikel & Tutorial
+## 📖 Artikel & Tutorial
 <p align="center">
   <a href="https://dev.to/username">
     <img src="https://img.shields.io/badge/Dev.to-Artikel-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
@@ -149,3 +160,6 @@
 hitlabmodv2/hitlabmodv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+````
+
+Anda dapat menyalin dan menempelkan kode di atas ke dalam file README.md Anda. Jika ada bagian yang ingin Anda ubah atau tambahkan, silakan beri tahu saya!
