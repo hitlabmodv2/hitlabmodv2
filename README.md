@@ -1,6 +1,3 @@
-Berikut adalah versi yang lebih rapi dan menarik dari konten README.md Anda. Saya telah menambahkan beberapa elemen untuk meningkatkan tampilan dan keterbacaan.
-
-````markdown
 <h1 align="center">Halo, saya @hitlabmodv2 👋</h1>
 
 <!-- Gambar random di bagian atas -->
